@@ -15,6 +15,8 @@ namespace my_app
         public Form1()
         {
             InitializeComponent();
+
+            MessageBox.Show("Hello");
         }
     }
 }
